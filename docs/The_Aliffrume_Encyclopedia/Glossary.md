@@ -59,7 +59,7 @@ An observed property of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phl
 
 ### Engrammatic Density
 Noun.  
-The concentration of engrammatic mass per unit volume in phlogistic materials. An important factor in the overall "strength" of a [firekeeper](Glossary.md#Firekeeper).
+The concentration of engrammatic mass per unit volume in [conscious planes](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md), or consequently phlogistic materials like [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md) or [infused](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md) mass. An important factor in the overall "strength" of a [firekeeper](Glossary.md#Firekeeper).
 
 ### Dominion
 Noun.  

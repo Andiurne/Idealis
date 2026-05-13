@@ -1,0 +1,2 @@
+# Tanóyryddaeth
+A Kaithurhi martial art that was designed as a last method of defense in war when one’s spear or bow was lost. It focuses mainly on defensive techniques to assist in escape, but also incorporates paralyzing blows through the use of electric shocks.

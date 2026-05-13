@@ -1,6 +1,6 @@
 # Halanian
 ## Naming Conventions
-  The countries of [Halisan](../../Geography/Halisan.md) are notably unanimous in their naming standards, with the exceptions being Mingxiao and the Ametsuji. Like most Thassalian cultures, the first name is granted by the parents, a middle name is taken from the mother, and the last name is taken from the father. A typical full name for a [Jïumannian](../Culture/Tradition/Jïumannes.md) woman would be Baswa Feiritha Bloedmyn.
+  The countries of [Halisan](../../Geography/Halisan.md) are notably unanimous in their naming standards, with the exceptions being Mingxiao and the Ametsuji. Like most Thassalian cultures, the first name is granted by the parents, a middle name is taken from the mother, and the last name is taken from the father. A typical full name for a [Jïumannian](../Culture/Tradition/Jïumannes/Jïumannes.md) woman would be Baswa Feiritha Bloedmyn.
 
 ### Common Fem. Names and Meanings
 * **Leiadrüne (F)** \- Wise traveler, journeying scholar

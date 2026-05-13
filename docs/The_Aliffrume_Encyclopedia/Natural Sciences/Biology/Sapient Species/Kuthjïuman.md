@@ -26,7 +26,7 @@ There is also a notable mutation in the Kaithurhi, where the skin is turned whit
 Of note is the Kaithurhi's distinct lack of practical spark sensors, due to all life in copperleaf forests simply using ambient [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md). This also lends them to having incredible pyrrhoreceptors, however, since many more threats can harness soulfire.
 
 ## Muintaferan
-A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains just south of Kanthyna and the Hynawyll valley. Characterized by dark skin to guard against the equatorial sun without tree cover, long, skyward scarlet horns as ears and pyrrhoreceptic organs, and nearly homogeneously scarlet hair and eyes. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
+A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains of Tereghda, in western Jïumannes. Characterized by dark skin to guard against the equatorial sun without tree cover, long, skyward scarlet horns as ears and pyrrhoreceptic organs, and nearly homogeneously scarlet hair and eyes. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
 
 Due to their grassland environment, they evolved rather long and powerful legs, which grants them a rather tall average height. In addition to their excellent stamina, this makes them well suited to long bouts of running. This lends itself to chasing down the agile prey on the plains, and makes a greater portion of their height compressible for hiding in the bloodgrass. Other species do believe it to look rather strange, however.  
 

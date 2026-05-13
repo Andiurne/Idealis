@@ -1,0 +1,2 @@
+# Heinitan Bracer Style
+Lit. "Shock Bracer Style," a Jïumannian martial art designed by noblemen for defense against assassination, relying on the use of armored gauntlets or bracers to defend against and disarm sword-wielders. Notably, it has little method of dealing with spears, as they were deemed too simple to spend much time on.

@@ -1,0 +1,11 @@
+# Eldian Hues
+The Kaithurhi attach the soulfire color of one’s bacterial resonance to certain personality traits, with some colors even being prerequisites for certain social ranks or jobs.   
+- For example, those with an **emerald** soulfire are seen as spiritual, philosophical, holy, and kind; and are the only ones who can work as priests.   
+- Those with **violet** soulfire are seen as brave, stubborn, heroic, and honorous. They are commonly found in hunting groups or the rare dedicated military, although it is not a prerequisite.  
+- Those with **magenta** soulfire are curious, inquisitive, and independent. They typically find themselves in positions of shimmer-beast hunters, scholarship, or living as a wandering *coedwyn*. 
+- Those with **rose** soulfire are amiable, good arbitrators, and sometimes two-faced. Most often they are politicians, revolutionaries, and public figures. Some even force a harmony with emerald bacteria, with the Kaithurhi unable to see their true color for lack of spark vision.  
+- Those with **red** or **blue** soulfire are seen as more embodying the traits of that particular gender. Blue are seen as good swordswomen, seamstresses, and farmers, while red are seen as excellent hunters, passionate, and leaders.  
+- Those with **golden** soulfire are seen as creative, emotional, and excitable. They also typically have a greater connection to soulfire and the wandersouls, 2nd only to **Emerald** soulfire. Often join the **magentas** as *coedywn*, or find work as painters or other artists.  
+- Those with **orange** soulfire are seen as self-sacrificial, cooperative, and friendly. They are often assistants to higher color castes in all positions. They also make up a significant chunk of the main workforce in menial tasks, like planting seeds and guarding wagons. 3rd most common after red and blue.  
+- Those with **cyan** soulfire are seen as loyal, proud, and very tribal. They are often local leaders of businesses, expeditions, and other small-scale community operations.  
+- Those with **lime** soulfire are seen as peaceful, easygoing, and friendly. They will most often be foragers, shopkeepers, and animal-keepers.

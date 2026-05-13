@@ -1,0 +1,4 @@
+# Eldian Clothing
+Of the dyes available to the Kaithurhi natively in Kanthyna: red, blue, cyan, violet, and emerald see the most use. Of these colors, **red** is seen as a more feminine color and **blue** as masculine. **Cyan** is a neutral color, seen as the color of working, farming, and life. **Violet** is seen as a valorous color, typically worn by warriors and great hunters. **Emerald** is seen as a holy color, only being sourced from certain weeds that grow around Pelygwyrs, and only worn by priests. Those with the very rare emerald eyes or emerald soulfire are seen as angelic incarnations or prophets.  
+
+For the Kaithurhi, the mid-stomach is considered one of the most intimate areas of the body. Thus all clothing for even the servant/farming class covers at least the lower abdomen, with almost as much fervor as the groin.

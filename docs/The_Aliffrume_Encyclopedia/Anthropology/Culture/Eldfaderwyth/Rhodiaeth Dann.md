@@ -1,0 +1,2 @@
+# Rhodiaeth Dann
+A week-long winter holiday, held during the 4th week of Emron and centered around giving gifts to loved ones and potential lovers. Also the day when priests end their service by approaching Rhoddyn-Gwyd, as the holiday is celebrated in appreciation of Emrall’s gift of life to the forest.

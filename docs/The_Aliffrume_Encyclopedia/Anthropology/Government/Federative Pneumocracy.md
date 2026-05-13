@@ -16,11 +16,11 @@ Particularly in Halisan, power within a pneumocracy is often spread among three 
 	- Surveying
 	- Inter-city Trade
 
-We Fight, we Feed, we Fly; to be Free
+<!-- We Fight, we Feed, we Fly; to be Free -->
 
-The position of what most would call "the state" typically lies with the Lords, although their authority is noticeably weaker within the fields or the farlands. Outside city walls, the Arteries and Stormrunners are expected mostly to govern themselves, with the exception of military support where necessary.
+The position of what most would call "the state" typically lies with the Lords, although their authority is noticeably weaker within the fields or the farlands. Outside city walls, the Arteries and Stormrunners are expected to mostly govern themselves, with the exception of military support where necessary.
 
-The strongest among their local members is often appointed to the position of highlord by a tenuous agreement, though many territories employ a more formalized process, often a duel between candidates of either physical or political nature.
+<!-- The strongest among the faction's local members is often appointed to the outward-facing position of highlord by a tenuous agreement, though many territories employ a more formalized process: often a duel between candidates of either physical or political nature. -->
 
 <!-- 
 Notes on alternative economic systems:

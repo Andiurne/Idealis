@@ -1,0 +1,2 @@
+# Sengriene Sword Style
+Lit. "Continuous Flow Style," a sword discipline popular among young Jïumannian noblewomen. Places emphasis on carrying momentum elegantly through strikes, and taking a holistic approach to battle. Uses many strikes of little power.

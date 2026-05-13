@@ -1,5 +1,4 @@
-### Kaithurhi Philosophy
-
+# Kaithurhi Philosophy
 Much of the Kaithurhi’s beliefs are founded on Transcendentalist tenets, such as the importance of self-reliance and individuality and the innate goodness of man and nature. Notably, their culture is not based in individualism, which views all governance as harmful to the individual, but their government is often extremely weak and only protective.
 
 In Kaithurhi tribes, families are expected to feed, clothe, and perform for themselves other essential services. These families then form into defensive pacts and alliances, which constitute the actual “tribes.” Codependent relationships, such as equal trade, where both parties would be worse off if one left, are neither frowned upon nor encouraged.

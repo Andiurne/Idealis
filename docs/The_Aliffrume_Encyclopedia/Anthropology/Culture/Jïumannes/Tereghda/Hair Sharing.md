@@ -1,0 +1,2 @@
+### Hair Sharing
+A customary practice among the Muintaferan is to wear a locket of your lover’s hair with your own as an extension. This tradition has also extended recently into the Jïumannian nobility as a novel fashion trend, especially among the Áren.

@@ -1,0 +1,9 @@
+# Eldian Gender Roles
+Eldwyth society recognizes 3 principle genders. Male, female, and the hermaphroditic *sancyffo*. Each of these genders are expected to portray certain traits, and gravitate towards certain jobs.   
+However, the Eldwyth place a much higher emphasis on the color of one’s soulfire in determining roles and jobs. For example, a woman born with **violet** soulfire will be expected to join the hunting corps and be more brave and honorous. Meanwhile, a man born with **red** soulfire will be expected to be calmer, take up swordplay, and a feminine profession such as farming or sewing.  
+
+“Masculinity” to the Eldwyth is embodied by a mix of traditional masculinity and emotionality. Men are expected to be emotionally free and open, living in the moment and discussing their feelings frequently. Masculine hobbies include most sports and games, archery, and bow-making. Masculine jobs are often to hunt, to fight, and to build.  
+
+“Femininity” to the Eldwyth is embodied by stoicism, mindfulness, and independence. Women are expected to show little emotion besides love, and especially to show no dependence. They are expected to be to each their own, and to only open their hearts to one man, and only then in moderation. Feminine hobbies include swordplay, puzzles, sewing, and botany. Feminine jobs include farming, war counseling, and writing.  
+
+Finally, there is the matter of the *sancyffo*. This gender is relatively uncommon, and only those with Emerald soulfire or particularly androgynous traits are expected to portray its virtues. The *sancyffo* are expected to be holy, wise, and mysterious. In fact, for a sancyffo to reveal their sex is considered highly embarrassing and grotesque. They are almost exclusively priests and wanderers, living in harmony with the forest and guiding others they come across.
