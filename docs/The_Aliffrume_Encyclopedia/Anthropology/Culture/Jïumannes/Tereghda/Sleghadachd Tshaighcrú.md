@@ -1,2 +1,2 @@
-### Sleghadachd Tshaighcrú
+# Sleghadachd Tshaighcrú
 The spear art of the Muintaferan.

@@ -31,7 +31,7 @@ A middle ground between blackstone and palestone, though often simply blackstone
 The common grade of gimyndine, with a pale hue and a monotone pattern. Often granted to scriptlighters in training or those of low standing, but still preferable to being unable to use firekeeping.
 
 ### Purestone
-The advanced grade of gimyndine, possessing vibrant colors but no play-of-color. The standard for professional scriptlighters and high-grade military equipment. ^4fb5c9
+The advanced grade of gimyndine, possessing vibrant colors but no play-of-color. The standard for professional scriptlighters and high-grade military equipment. 
 
 ### Blazestone
 The elite grade of gimyndine, possessing a hue that seems to glow with play-of-color, and maintains a persistent halo of sparks. Often the centerpiece of a renowned scriptlighter's arsenal.
@@ -41,7 +41,7 @@ The highest grade of gimyndine, and so named because its power and rarity allow 
 
 As of the writing of this encyclopedia, there are thought to be only 3 complete statues of kingstone in the world. Curiously, they have only been found as unbroken, completely whole objects in ruins, as opposed to shattered and piecemeal like other varieties. 
 
-### The Skull of Vakatow
+### Vakatow's Skull
 The largest and most powerful specimen of gimyndine in the world. It was discovered in the depths of a Kishian ruin, and is currently in the possession of the Ayangatalan royal family for powering their infamous “Scarlet Sky” city-scale defense engram. The skull itself has been encased mostly in a large tungsten sphere to protect those near from the burning intensity of its sparks.
 
 <!-- ### Gimyndine

@@ -1,4 +1,4 @@
-What follows is the last-known theories of the [Hythean](Nations%20&%20States/The%20Hythean%20Empire.md) scientific diaspora at large, and is largely unsubstantiated, but simultaneously not disproven. The nature of the theory leaves it somewhat unprovable with current technology, and more akin to theology.
+What follows is the last-known theories of the [Hythean](Nations%20&%20States/Hythea.md) scientific diaspora at large, and is largely unsubstantiated, but simultaneously not disproven. The nature of the theory leaves it somewhat unprovable with current technology, and more akin to theology.
 
 ## Küranna's Theory of Data
 

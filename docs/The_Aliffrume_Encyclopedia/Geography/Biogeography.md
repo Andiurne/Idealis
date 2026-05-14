@@ -1,7 +1,6 @@
 # Biogeography
 
 ## Biomes
-
 ### Copperleaf Forests
 A biome where gimyndine deposits have been brought up close to the surface, and into close proximity with dense life, typically tropical or temperate rainforests. The result is a biome overflowing with soulfire all aligned to one wavelength by spontaneous synchrony, which can be even more damaging than disharmonic soulfire.  
 

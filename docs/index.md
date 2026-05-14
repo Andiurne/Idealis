@@ -51,6 +51,18 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **5/14/2026** (Holy Changelog Batman)
+	- Removed for reworking to fit modern canon:
+		- Arwyn Tribes
+		- Halanian Gematria
+		- Global History (will be left in place for reference)
+	- Seperated Culture into distinct articles, and reworked the folder structure to categorize them by country
+	- [Federative Pneumocracy](The_Aliffrume_Encyclopedia/Anthropology/Government/Federative%20Pneumocracy.md) now includes what non-members of the three factions are classified as
+	- Began [Cressânian](The_Aliffrume_Encyclopedia/Anthropology/Languages/Cressânian.md)
+	- Added a description of name structure to [Halanian](The_Aliffrume_Encyclopedia/Anthropology/Languages/Halanian.md), including a description of primary and secondary surnames, and the notion of corenames.
+	- Added soul assertion and a typical training method to [Firekeeper Education](The_Aliffrume_Encyclopedia/Anthropology/Sociology/Firekeeper%20Education.md)
+	- Removed "Four Estates," as it conflicted with the structure of [Federative Pneumocracy](The_Aliffrume_Encyclopedia/Anthropology/Government/Federative%20Pneumocracy.md).
+	- Began reworking [Halanian History](The_Aliffrume_Encyclopedia/Chronology/By%20Continent/Halanian%20History.md)
 - **5/5/2026**
 	- Updated links in [Global History](The_Aliffrume_Encyclopedia/Chronology/Global%20History.md)
 	- Added [Engrammatic Density](The_Aliffrume_Encyclopedia/Glossary.md#Engrammatic%20Density) to the glossay

@@ -5,7 +5,7 @@ A governmental system common in gimyndine-poor areas like Western Halisan and Ea
 Particularly in Halisan, power within a pneumocracy is often spread among three factions: 
 - The Lords (Within the walls)
 	- Military Defense
-	- Wartime Leadership
+	- City Management
 	- Peacekeeping
 - The Arteries (Without the walls)
 	- Food Production
@@ -16,9 +16,13 @@ Particularly in Halisan, power within a pneumocracy is often spread among three 
 	- Surveying
 	- Inter-city Trade
 
-<!-- We Fight, we Feed, we Fly; to be Free -->
+### Tradesmen
+Notably, these three factions do not include many industry professionals, such as miners, seamsters, tanners, etc. While these professions can and do include powerful firekeepers, including rare, educated positions such as [synthesizers](../Economics/Synthesizer.md) and [reckoners](../../Glossary.md#Reckoner), they are often either too sparse or too disorganized to represent a significant political force. Thus "tradesmen" refers generally to "civilians" not belonging to any particular faction above.
 
+### The State
 The position of what most would call "the state" typically lies with the Lords, although their authority is noticeably weaker within the fields or the farlands. Outside city walls, the Arteries and Stormrunners are expected to mostly govern themselves, with the exception of military support where necessary.
+
+
 
 <!-- The strongest among the faction's local members is often appointed to the outward-facing position of highlord by a tenuous agreement, though many territories employ a more formalized process: often a duel between candidates of either physical or political nature. -->
 
@@ -27,4 +31,4 @@ Notes on alternative economic systems:
 - "Syndicalism" is basically just "a union for every industry," which seeks to eliminate people whose job is merely owning, instead of producing. I would also assume such unions are led by figureheads, likely experienced or elected tradesmen. This might provide a natural retirement path, as experienced laborers retire from physical work and instead use their expertise to guide the force.
  -->
 ## Classes
-As a short aside, there also exists a small but notable class of tradesmen. These are those persons in highly educated and skilled phlogistic professions, such as [synthesizers](../Economics/Synthesizer.md) and [computers](../../Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md). Though they do possess notable phlogistic power, the specialized skills demanded of them mean they are low in number but high in political powers.
+As a short aside, there also exists a small but notable class of phlogistic tradesmen. These are those persons in highly educated and skilled phlogistic professions, such as [synthesizers](../Economics/Synthesizer.md) and [computers](../../Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md). Though they do possess notable phlogistic power, the specialized skills demanded of them mean they are low in number but high in political powers.

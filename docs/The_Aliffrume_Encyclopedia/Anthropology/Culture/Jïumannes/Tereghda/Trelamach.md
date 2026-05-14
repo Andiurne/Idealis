@@ -1,4 +1,4 @@
-### Trelamach
+# Trelamach
 A common way of life among the particularly devout or holy Muintafer that involves forfeiting most personal desires and possessions in service of a code. Specifically, the Trelamach code, which is as follows:
 
 1. Cause no harm  

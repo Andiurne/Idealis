@@ -9,8 +9,9 @@ Due to their relative complexity, the topics of noelogy are typically instructed
 2. Practical Resonance
 3. Soulfire Manipulation
 4. Infusion & Coupling
-5. Imparting Spin
-6. Basic Puppetry
+5. Soul Assertion
+6. Imparting Spin
+7. Basic Puppetry (typically through temporary cordotomy)
 
 ### Noelogy
 1. Fundamentals of:
@@ -62,3 +63,7 @@ Even fewer within Planelords are those able to construct novel, complex subplane
 ### High Planelords
 A countable number of individuals possess the ability to maintain an open flame at any given moment, and they are thus uniquely identified as High Planelords. They are internationally recognized.
 1. Open Flames
+## Methods
+### Temporary Chordotomy
+A fairly common method of teaching puppetry, novice firekeepers are often paralyzed from the neck-down by either physical or chemical inhibition of a certain tract of the spinal cord, thus forcing them to use only puppetry and familiarize themselves with the feeling. Notably, the physical method requires either that the medic is comfortably capable of soul assertion, or that a competent medic is on standby.
+
