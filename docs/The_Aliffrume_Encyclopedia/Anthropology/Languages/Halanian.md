@@ -7,17 +7,21 @@ A legal name in Halanian typically consists of three parts, in reading order:
 1. Given Name 
 2. Primary Surname
 	1. One's primary surname is that of their same-sex parent, or the secondary of the other parent if the prior is null.
-	2. If one is bestowed with an epithet by a recognized guild, it takes the place of their primary surname. This is the only way by which new surnames can be created.
+	2. If the child has no same-sex parent, as in firebirth or same-sex adoption, their primary surname is null. If both parents are the same sex, the decision is arbitrary.
+	3. If one is bestowed with an epithet by a recognized guild, it takes the place of their primary surname. This is the only way by which new surnames can be created. 
 3. Secondary Surname
-	1. One's secondary surname is the primary surname of their opposite-sex parent
+	1. One's secondary surname is the primary surname of their opposite-sex parent. If they have none, it is null. If both are of opposite sex, it is arbitrary.
 	2. Upon marriage, one traditionally takes the primary surname of their partner to be their new secondary surname
+<!-- Note: under these rules, possessing less than 2 surnames is effectively a "recessive" trait. Over a sufficiently long time, people with no surnames will die out, then those with only 1. -->
+Notably, this system requires every individual to have a declared biological sex of either male, female, or ichorous (which functions as a recessive wild-card); Halanian cultures typically consider sex to be entirely distinct from gender.
 
-In informal contexts, it's accepted and common for one to go by solely their given name and primary surname for the sake of brevity. However, being referred to solely by one's surname is a right reserved only for its progenitor, and acting in such a manner is considered highly disrespectful.
+<!--
+The concept of an autonym is kinda neat, but honestly the odds of guessing it are highly improbable. It might make sense as a ceremonial trend among the Lords that was adopted down, but I can also get the same affect by doing it like Japanese, where the given name is a privilege.
+### Autonym
+Moreover, though it's never listed in official contexts, it's traditional for Halanian speakers to choose an autonym around the age of 12 cycles, as a rite of passage into adulthood. The name is intended to be representative of the bearer's truest self, a crystallization of their character. If tradition is strictly followed, it is never to be imparted, only guessed, with those who know the speaker well enough to be correct thus earning the right to use it in private. 
 
-### Corename
-Moreover, though it's never listed in official contexts, it's traditional for Halanian speakers to choose a "true name" or "corename" for themselves around the age of 12 cycles, as a rite of passage into adulthood. The name is intended to be representative of the bearer's truest self, a crystallization of their character. If tradition is strictly followed, it is never to be imparted, only guessed, with those who know the speaker well enough to be correct thus earning the right to use it in private. 
-
-Needless to say, the practice is rather intimate, and is practically reserved only for family, lovers, and true compatriots. Practically, the probability of correctly guessing a true name even with proper knowledge is exceedingly low, and even with the sentiment that the time and dedication to continually hunt for are part of earning it, many Halanian speakers elect to simply dictate their true name to those they deem worthy, essentially turning the meaning into "I wish for you to know me this well, and trust you not to spurn me in this."
+Needless to say, the practice is rather intimate, and is practically reserved only for family, lovers, and true compatriots. Practically, the probability of correctly guessing a true name even with proper knowledge is exceedingly low, and even with the sentiment that the time and dedication to continually hunt for are part of earning it, many Halanian speakers elect to simply dictate their autonym to those they deem worthy, essentially turning the meaning into "I wish for you to know me this well, and trust you not to spurn me in this."
+-->
 
 ### Common Fem. Names and Meanings
 * **Leiadrüne (F)** \- Wise traveler, journeying scholar
