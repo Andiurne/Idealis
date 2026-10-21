@@ -21,7 +21,7 @@ This makes ideal [shades](../../../Glossary.md#Shade) some of the most dangerous
 
 ## By Psyche
 ### Fairies
-Harmonic phantasms born from natural coalescence, often as wisps. [Fairies](Fairy.md) typically bear a symbolic resemblance to subjects of repeated attention in thought; put simply, the elements of dreams.
+Harmonic phantasms born from natural coalescence, often as [wisps](../../../Glossary.md#Wisp). [Fairies](Fairy.md) typically bear a symbolic resemblance to subjects of repeated attention in thought; put simply, the elements of dreams.
 
 ### Fellsouls
 Greater phantasms which have undergone ego death and are thus directed by fear, anger, and transformed into shades. Given their origin, a [fellsoul](Fellsoul.md) will always resemble the image of themselves which the soul constructed as a consequence of their collapse.

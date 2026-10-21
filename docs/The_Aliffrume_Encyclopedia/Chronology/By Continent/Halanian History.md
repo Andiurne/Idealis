@@ -11,16 +11,16 @@ First Light: 0 AL - 431 AL; Roughly an early medieval period
 	- It is not in the nature of demigods to conquer, so while the people go protected, their worship shifts away from the old gods, thus leading them to die and for the Dwindling to occur over the later period. 
 	- Given the scarcity of food, dragons had to choose naturally strong individuals, and often they were unable to train successors.
 Second Light: 432 AL -  1007 AL; Roughly high medieval -> early modern
-	- Jïumannes emerges as a centralizing power in response to colonization efforts by Cressân around 800 AL (15th century)
+	- Jïumannes emerges as a centralizing power in response to colonization efforts by Cressân around 600 AL (15th century)
 Third Light: 1008 AL - Present
 	- Marked by the emergence of Dynamic Field Theory and subsequent prevalence of Open Flames, allowing for deep inquiry into physics and rapid advancement
 	- Phlogistic technology takes off in earnest with the subsequent development of Adaptive Resonators, essentially soulfire generators that intelligently align themselves with the user's fundamental phases. This allows far more people to utilize artifacts safely, so long as they are capable of resonance.
 -->
 ## Jïumannes
-### The Day of Gilded Daggers (806 AL)
-In 806 AL, Emperor Voyétol III of Cressân sent an expedition to the eastern coast of Halisan to investigate the “uncivilized lands” for potential resources. They were greeted with pleasantries by the native Áren, and peaceful relations existed for a long while, until the discovery of the Áren’s rich gimyndine reserves. The mandates of the Stoneghost Doctrine took over, and in 813 AL, a greatship full of carvers and wraithtamers arrived on the coasts of Halisan with empire in mind.
+### The Day of Gilded Daggers (506 AL)
+In 806 AL, Emperor Voyétol III of Cressân sent an expedition to the eastern coast of Halisan to investigate the “uncivilized lands” for potential resources. They were greeted with pleasantries by the native Áren, and peaceful relations existed for a long while, until the discovery of the Áren’s rich gimyndine reserves. The mandates of the Stoneghost Doctrine then took over, and a greatship full of carvers and wraithtamers arrived on the coasts of Halisan with empire in mind.
 
-### Jïumannian Wars of Expression (832 AL)
+### Jïumannian Wars of Expression (618 AL)
 The Jïumannian Wars of Expression, otherwise called the Jïumannian Revolutionary War, was a war fought between the then-Colonies of Casulon and the Cressânian Empire. The war was instigated by rising tensions in the firekeeping colonies from the repressive Stoneghost Doctrine, and was one of the events accredited with the beginning of the Resurgence.  
 
 It originally began with the native colonies fighting the royal colonies, sparked emotionally by Cressân’s severe regulation of firekeeping, and kept practically-minded by a desire to protect their own land. The royal colonies were reluctant to allow the natives to escape colonialism, as it would mean their lucrative trade relationship with the Roseine mainland would cease.  

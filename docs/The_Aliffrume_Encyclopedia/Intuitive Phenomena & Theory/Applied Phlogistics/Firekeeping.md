@@ -46,7 +46,7 @@ The design of [ichorous](../../Glossary.md#Ichorous) items, referred to as [icho
 [Synthesis](../../Anthropology/Economics/Synthesizer.md) is the practice of utilizing complex visualization, [infusion](../Soulfire/Interactions/Infusion.md), and [meldcraft](Meldcraft.md) engrams to construct complex materials.
 
 ### Soulsmithing
-[Soulsmithing](Soulsmithing.md) is the practice of forging metal utilizing the techniques of [meldcraft](Meldcraft.md), increasing the item's [coupling limit](../../Glossary.md#Coupling%20Limit) and generally being safer, more precise, and requiring less physical effort than traditional forging methods.
+[Soulsmithing](Soulsmithing.md) is the practice of forging metal utilizing the techniques of [meldcraft](Meldcraft.md), increasing the item's [coupling limit](../../Glossary.md#Coupling%20Capacity) and generally being safer, more precise, and requiring less physical effort than traditional forging methods.
 
 ### Oversense
 The design of [engrams](../Pure%20Phlogistics/Engram.md) which construct additional senses, such as the prototypical [oversense](../../Technology/Notable%20Engrams/Oversense.md) which allowed for arbitrarily precise truly three-dimensional spatial perception.

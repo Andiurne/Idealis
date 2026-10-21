@@ -28,7 +28,7 @@ Notably, coagulated soulfire is a necessary prerequisite for creating [ichor](..
 ## Decay
 Soulfire is observed to decay by various methods, which explains why the universe isn't currently inundated with it, given its ease of production. Chiefly, soulfire appears to gradually "unravel" as it moves from a natural impedance in the conscious plane. However, tidal forces induced by conscious waves also have a pronounced effect, as well as minuscule internal combustion.
 
-Chielfy, no matter the method, soulfire's decay is always accompanied by the emission of [sparks](../Sparks.md), which themselves will decay proportional to the phlogistic pressure of their medium, eventually into nothing. This spark emission is what gives soulfire its characteristic incandescence, which inspired its name.
+Chielfy, no matter the method, infused soulfire's decay is always accompanied by the emission of [sparks](../Sparks.md), which themselves will decay proportional to the phlogistic pressure of their medium, eventually into nothing. This spark emission is what gives soulfire its characteristic incandescence, which inspired its name.
 
 ## Variations
 ### Soulfire Field

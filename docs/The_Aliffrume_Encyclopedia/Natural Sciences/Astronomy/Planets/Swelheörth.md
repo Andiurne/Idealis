@@ -3,4 +3,4 @@ A planet in the habitable zone of [Reinbrüne](../Reinbrüne.md); closer, warmer
 
 | Category       | Value   |
 | -------------- | ------- |
-| Orbital Radius | 1.11 AU |
+| Orbital Radius | 1.21 AU |

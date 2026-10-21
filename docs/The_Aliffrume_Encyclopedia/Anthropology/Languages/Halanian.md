@@ -7,16 +7,16 @@ A legal name in Halanian typically consists of three parts, in reading order:
 1. Given Name 
 2. Primary Surname
 	1. One's primary surname is that of their same-sex parent, or the secondary of the other parent if the prior is null.
-	2. If the child has no same-sex parent, as in firebirth or same-sex adoption, their primary surname is null. If both parents are the same sex, the decision is arbitrary.
+	2. If the child has no same-sex parent, as in firebirth or certain cases of adoption, their primary surname is null. If both parents are the same sex, the decision is arbitrary.
 	3. If one is bestowed with an epithet by a recognized guild, it takes the place of their primary surname. This is the only way by which new surnames can be created. 
 3. Secondary Surname
 	1. One's secondary surname is the primary surname of their opposite-sex parent. If they have none, it is null. If both are of opposite sex, it is arbitrary.
 	2. Upon marriage, one traditionally takes the primary surname of their partner to be their new secondary surname
 <!-- Note: under these rules, possessing less than 2 surnames is effectively a "recessive" trait. Over a sufficiently long time, people with no surnames will die out, then those with only 1. -->
-Notably, this system requires every individual to have a declared biological sex of either male, female, or ichorous (which functions as a recessive wild-card); Halanian cultures typically consider sex to be entirely distinct from gender.
+Notably, this system requires every parent to have a declared position of either father or mother, and thus persons who are neither male nor female will often simply fill the role their partner doesn't; Halanian cultures typically consider sex to be entirely distinct from gender, a view spawned from their  understanding of the soul and cognition as distinct from the body.
 
 <!--
-The concept of an autonym is kinda neat, but honestly the odds of guessing it are highly improbable. It might make sense as a ceremonial trend among the Lords that was adopted down, but I can also get the same affect by doing it like Japanese, where the given name is a privilege.
+The concept of an autonym is kinda neat, but honestly the odds of guessing it are prohibitively low. It might make sense as a ceremonial trend among the Lords that was adopted down, but I can also get the same effect by doing it like Japanese, where the given name is a privilege.
 ### Autonym
 Moreover, though it's never listed in official contexts, it's traditional for Halanian speakers to choose an autonym around the age of 12 cycles, as a rite of passage into adulthood. The name is intended to be representative of the bearer's truest self, a crystallization of their character. If tradition is strictly followed, it is never to be imparted, only guessed, with those who know the speaker well enough to be correct thus earning the right to use it in private. 
 
@@ -54,6 +54,17 @@ Needless to say, the practice is rather intimate, and is practically reserved on
 * **Flównysfeld** \- “Of the plains of flowing blood;” a last name used for Muintaferan, who had none.
 * **Gifyrich** \- “Of the bountiful forest;” a noble family belonging to the industrial forests of western Jïumannes.
 * **Fæstekymp** \- “Fortress keeper,” a noble family responsible for military affairs.
+
+## Circles of Familiarity
+Halanian cultures are often highly communal, more specifically organized around a familial structure. In conversation, speakers will often use differing modes of speech with individuals of differing "familiarity" to their own family. Generally speaking, a complete method of address consists of one's title along with the three parts of their Halanian name.
+
+### Formality
+The formality of an address method is largely dependent on the presence of a title. However, it is also considered proper to avoid using the given name, even if one is familiar enough, and to instead utilize their primary.
+
+### Familiarity
+Generally, any form which utilizes one's given name is considered "internal" to their family, and thus rather intimate, while any form which relies on their primary is "external." Moreover, this process is rigid enough that one will often introduce themselves by their primary and secondary
+
+The concept of a nickname extends further from this, with primary-based nicknames being common among friends, while given-based nicknames are almost exclusively reserved for lovers and close peers.
 
 ## Known Terms
 * **Dreórfeax** \- Slur for the Muintaferan, either “blood-hair” or “blood-fay,” origin is disputed.

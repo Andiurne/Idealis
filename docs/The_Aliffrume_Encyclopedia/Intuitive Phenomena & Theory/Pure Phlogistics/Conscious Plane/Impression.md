@@ -1,0 +1,2 @@
+# Impression
+A region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.

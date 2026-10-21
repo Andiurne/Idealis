@@ -1,5 +1,4 @@
-### Powderblade
-
+# Powderblade
 One of the more commonplace weapons for infantry-hunting scriptlighters, they are a wide class of devices that operate on the fundamental principle of constructing a monocrystal diamond blade out of powerdized carbon. The resulting blade channels gimynfire exceedingly well, almost serving to become a blade of pure gimynfire. In addition to carbon’s exceptional responsiveness to gimynfire control, coupling allows the diamond’s covalent bonds to loosen and gain elasticity, making it more suitable for a blade.  
 
 All of the above factors serve to make the blade roughly equivalent to a traditional silver-steel blade, but this is not the true purpose of powderblades. Instead, they serve as a countermeasure to heavyweight scriptlighters and their high-flashpoint armor. When coupled armor is struck with a powderblade, there is naturally a combustion event, resulting in the decoupling of the blade and the draining of the armor’s coupling charge. However, the pure-crystal carbon structure of the powderblade is easily re-coupled and reformed, whereas the high-resistance armor would require full focus to recharge. The shattering blade also means that an attack can be fully followed through, maintaining the attacker’s speed. In this way, the heavyweight can be steadily worn down for a chance at victory.  

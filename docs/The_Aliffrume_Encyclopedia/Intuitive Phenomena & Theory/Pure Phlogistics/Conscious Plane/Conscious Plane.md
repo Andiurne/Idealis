@@ -3,13 +3,10 @@ Also known as the collective unconscious, the afterlife, or the Shadowless Dream
 
 Careful investigation has revealed that the conscious plane is filled with a kind of noise, theorized to be the result of infinitely many unique fluctuation patterns overlapping and destructively interfering. Soulfire is brought into existence along with change in the conscious plane’s structure and unraveled by tidal forces, and thus a small amount of soulfire percolates throughout reality in accordance with the noise.
 
-Additionally, though the conscious plane is named so, current science can only confirm it maps to the 3 spatial and singular temporal dimensions, but not that the plane is constrained to these. In particular, souls are believed to be rather high-dimensional to account for their complexity, perhaps extending into compactified extra dimensions. No known ethical methods of empirically testing this theory have been developed, though many [[../Soulfire/Fireborn]] and trained practitioners of natural firekeeping report being able to “feel” the shape of their soul, to varying results.
+Additionally, though the conscious plane is named so, current science can only confirm it maps to the 3 spatial and singular temporal dimensions, but not that the plane is constrained to these. In particular, souls are believed to be rather high-dimensional to account for their complexity, perhaps extending into compactified extra dimensions. No known ethical methods of empirically testing this theory have been developed, though many [Fireborn](../../Soulfire/Phantasms/Fireborn.md) and trained practitioners of natural firekeeping report being able to “feel” the shape of their soul, to varying results.
 
 ## Soul Plane
 A subplane with a distinct boundary seperating it from the wider conscious plane, which contains a core of engrammatic mass called [the soul](../Soul/Soul.md).
-
-## Impression
-A region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.
 
 ## Space Density
 Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so.

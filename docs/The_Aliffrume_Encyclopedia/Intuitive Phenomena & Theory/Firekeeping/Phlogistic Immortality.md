@@ -1,2 +1,2 @@
 # Phlogistic Immortality
-An attianable state of being wherein a soul is able to sustian itself without the aid of an impression, and thus is functionally impossible to forcefully wither.
+A state of being wherein a [soul](../Pure%20Phlogistics/Soul/Soul.md) is able to sustain itself without the aid of an [impression](../Pure%20Phlogistics/Conscious%20Plane/Impression.md), and thus is functionally impossible to forcefully kill.

@@ -1,8 +1,8 @@
 # Phlogistic Model   
 The predominant theory of [Intuition](../../Natural%20Sciences/Biology/Intuition.md) which models such phenomena as being caused by the generation, movement, and decay of [Soulfire](Soul/Soulfire.md), itself caused by the curvature of the [Conscious Plane](Conscious%20Plane/Conscious%20Plane.md), ultimately due to the patterns of the fundamental phases and [Soulfire](Soul/Soulfire.md). In this way, the model situates the phases as the ultimate source of intuitive phenomena and paracausality.
-## [Leombjürna's](../../../Narratives/Characters/Sic%20Semper%20Tyrannis/Älwathend%20Witafjürgen.md) Laws of Engrams
-1. An [engram](Engram.md), herein as it is defined, is any process which controls [Soulfire](Soul/Soulfire.md) for some purpose. Thermodynamically, it is any process which influences state evolution (entropy) by the paracausal control of [Soulfire](Soul/Soulfire.md).
-2. It is impossible for an [Engram](Engram.md), its effect, or its target to travel faster than light and/or causality. Time travel is therefore impossible under all circumstances.
+## [Witafjürgen's](../../../Narratives/Characters/Sic%20Semper%20Tyrannis/Älwathend%20Witafjürgen.md) Laws of Phlogistics 
+1. An [engram](Engram.md), herein as it is defined, is any process which controls [Soulfire](Soul/Soulfire.md) for some purpose. Thermodynamically, it is any process which influences state evolution by the paracausal control of [Soulfire](Soul/Soulfire.md).
+2. It is impossible for an [Engram](Engram.md), its effect, or its target to travel faster than the speed of light and/or causality. Time travel is therefore impossible under all circumstances.
 3. It is impossible for an [Engram](Engram.md) to permanently remove information. Information about what an [Engram](Engram.md) accomplished is contained in the [sparks](Soul/Soulfire.md#Sparks) it generates and the [flamescript](../Soulfire/Flamescript.md) left behind.
 4. It's impossible for an [Engram](Engram.md) to change, create, remove, or ignore an engrammatic law.
 

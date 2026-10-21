@@ -1,6 +1,6 @@
 #  Firekeeper Education
 ## Novice
-Introductory, general skills learned under a simple apprenticeship. For those who know their life path, typically begins around the age of 16 semicycles, and will be completed around 20. Once completed, an individual is officially referred to as an "apprentice," rather than "novice."
+Introductory, general skills learned from a [highkeeper](../../Glossary.md#Highkeeper), typically within a larger classroom environment. For those who know their life path, this typically begins around the age of 16 semicycles, and will be completed by 20, in tandem with one's secondary level of academic education. Once completed, an individual is officially referred to as an "apprentice," rather than "novice."
 
 Due to their relative complexity, the topics of noelogy are typically instructed after dynamics, as a deeper understanding behind the practical skills. This is also because the topics of noelogy can often be too abstract for younger minds to properly comprehend. More precisely, it's typical that the first cycle is spent on dynamics, while the second is on noelogy.
 
@@ -36,13 +36,13 @@ Skills specific to an area of application, or one's intended career. Length vari
 ### Synthesizer
 
 ## Master
-Upon completing their studies as an apprentice, firekeepers are officially referred to as such, although often more specifically by their occupation. As the lay person may also use the term to refer to any practitioner, the term "journeyman" is also used. They are officially recognized as being of competence in their craft, and may seek employment in it, but are not yet permitted to establish their own practice or instruct other apprentices.
+Upon completing their studies as an apprentice, one is officially referred to as a firekeeper, although often more specifically by their occupation. As the lay person may also use the term to refer to any practitioner, the term "journeyman" is also used. They are officially recognized as being of competence in their craft, and may seek employment in it, but are not yet permitted to establish their own practice or instruct other apprentices.
 
-This privilege belongs to masters, who may only be officially recognized with the patronage of an existing master. Of course, in order to avoid masters refusing to recognize journeyman to prevent competition, prospective masters may always submit a masterwork to their appropriate guild for evaluation. Conversely, in order to avoid masters minting unfit masters, their own license may be reevaluated at any given time (combined with the knowledge that each new master is potential competition, which limits their number).
+This privilege belongs to masters, who may only be officially recognized with the patronage of an existing master. Of course, in order to avoid masters refusing to recognize journeyman to prevent competition, prospective masters may always submit a masterwork to their appropriate guild for evaluation, incentivizing existing masters to barter. Conversely, in order to avoid masters minting unfit masters, their own license may be reevaluated at any given time by the guild (combined with the knowledge that each new master is potential competition).
 
-While it varies heavily, the average length of time spent as a journeyman by those intending to become recognized masters is around 8 semicycles, such that nascent masters have a median age of around 32 semicycles.
+While it varies heavily, the median length of time spent as a journeyman by those intending to become recognized masters is around 12 semicycles, such that nascent masters have a median age of around 36 semicycles.
 
-## Advanced Firekeeping
+## Advanced Techniques 
 Outside of their specialization, firekeepers may choose to continue on to advanced general techniques. These skills enhance one's capabilities regardless of the discipline, and some may even be required, but acquiring any marks one as one of pronounced achievement.
 
 ### Highkeeper
@@ -60,9 +60,10 @@ A further advancement from Highkeeper, separating those capable of utilizing hea
 Even fewer within Planelords are those able to construct novel, complex subplanes which can be utilized by others, and such skill often earns one national recognition.
 1. Subplane Design
 
-### High Planelords
-A countable number of individuals possess the ability to maintain an open flame at any given moment, and they are thus uniquely identified as High Planelords. They are internationally recognized.
+### Luminaries
+A countable number of individuals possess the ability to maintain an open flame at any given moment, and they are thus uniquely identified as Luminaries. They are internationally recognized.
 1. Open Flames
+
 ## Methods
 ### Temporary Chordotomy
 A fairly common method of teaching puppetry, novice firekeepers are often paralyzed from the neck-down by either physical or chemical inhibition of a certain tract of the spinal cord, thus forcing them to use only puppetry and familiarize themselves with the feeling. Notably, the physical method requires either that the medic is comfortably capable of soul assertion, or that a competent medic is on standby.
