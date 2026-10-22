@@ -79,17 +79,17 @@ It would be gone in a few short hours.
 Hardly any time at all.
 
 <blockquote><p>
-<em>The ink you gave me before departing runs</em>
-<em>dry as I write this. Though I'm sure the pen</em>
-<em>will occupy my desk a while longer; your judgment</em>
-<em>served you well in commissioning it from Alferhthiuer.</em>
-<em>The flashing streaks of red remind me of your eyes,</em>
-<em>and help me to keep their image in my mind as</em>
-<em>your journey lengthens. Hütha holds the scarf you</em>
-<em>left for her in similar regard; I expect she'll</em>
-<em>be wearing it during the inauguration, despite</em>
-<em>the dean's best attempt at "preserving the sanctity</em>
-<em>of uniform." I'll find a way to convince them.</em>
+<em>The ink you gave me before departing runs </em>
+<em>dry as I write this. Though I'm sure the pen </em>
+<em>will occupy my desk a while longer; your judgment </em>
+<em>served you well in commissioning it from Alferhthiuer. </em>
+<em>The flashing streaks of red remind me of your eyes, </em>
+<em>and help me to keep their image in my mind as </em>
+<em>your journey lengthens. Hütha holds the scarf you </em>
+<em>left for her in similar regard; I expect she'll </em>
+<em>be wearing it during the inauguration, despite </em>
+<em>the dean's best attempt at "preserving the sanctity </em>
+<em>of uniform." I'll find a way to convince them. </em>
 </p></blockquote>
 
 As the buildings reached lower and grew sparse
@@ -104,17 +104,17 @@ their color, flown in recognition of the autumnal equinox:
 Remembrance Day.
 
 <blockquote><p>
-<em>I swear, as time goes by, I see more of you</em>
-<em>in her. It shouldn't scare me as much as it does.</em>
-<em>I know you. I know you're doing good, no matter where</em>
-<em>you might be right now. It never mattered who it was,</em>
-<em>nor when, nor where. You could never stand to see someone</em>
-<em>suffer, for even a single second. Hütha carries that</em>
-<em>spark in her too. She claims it what draws her to the</em>
-<em>field, and I don't think it's a lie.</em>
-<em>But I do know part of her chases it because</em>
-<em>it brings her closer to you, in a way.</em>
-<em>But that's just a father's intuition.</em>
+<em>I swear, as time goes by, I see more of you </em>
+<em>in her. It shouldn't scare me as much as it does. </em>
+<em>I know you. I know you're doing good, no matter where </em>
+<em>you might be right now. It never mattered who it was, </em>
+<em>nor when, nor where. You could never stand to see someone </em>
+<em>suffer, for even a single second. Hütha carries that </em>
+<em>spark in her too. She claims it what draws her to the </em>
+<em>field, and I don't think it's a lie. </em>
+<em>But I do know part of her chases it because </em>
+<em>it brings her closer to you, in a way. </em>
+<em>But that's just a father's intuition. </em>
 </p>
 </blockquote>
 
@@ -139,11 +139,11 @@ his attention was drawn to a well-maintained
 garden just outside the walls.
 
 <blockquote><p>
-<em>When Hütha first learned of these letters,</em>
-<em>I made a promise to myself and to her</em>
-<em>that the ink well would determine their end.</em>
-<em>I thought better of refilling it after the first month.</em>
-<em>So this shall be the final time I write to you.</em>
+<em>When Hütha first learned of these letters, </em>
+<em>I made a promise to myself and to her </em>
+<em>that the ink well would determine their end. </em>
+<em>I thought better of refilling it after the first month. </em>
+<em>So this shall be the final time I write to you. </em>
 </p></blockquote>
 
 Even in fall, some flowers still bloomed.
@@ -151,17 +151,17 @@ Hawen admired their strength in the face of the
 inevitable as he stood before the stone.
 
 <blockquote><p>
-<em>Were you here, I know you would insist I hope</em>
-<em>it be a long while before we meet again.</em>
-<em>Though a part of me wishes otherwise.</em>
-<em>Selfish, I know. It's become quieter lately.</em>
-
-<em>I'm here because it's what you would want.</em>
-<em>I'm here for Hütha.</em>
-<em>In time, I hope, I'll be here for myself too.</em>
-
-<em>Your love eternal,</em>
-
+<em>Were you here, I know you would insist I hope </em>
+<em>it be a long while before we meet again. </em>
+<em>Though a part of me wishes otherwise. </em>
+<em>Selfish, I know. It's become quieter lately. </em><br>
+<br>
+<em>I'm here because it's what you would want. </em>
+<em>I'm here for Hütha. </em>
+<em>In time, I hope, I'll be here for myself too. </em><br>`
+<br>
+<em>Your love eternal,</em><br>
+<br>
 <em>Hawen</em>
 </p></blockquote>
 
