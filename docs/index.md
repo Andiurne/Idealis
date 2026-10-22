@@ -30,7 +30,7 @@ footerHtml: true
 footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
 ::: center
-## [Latest Update - Fall 2026](/updates/fall_2026.md)
+## [Latest Update - Fall 2026](/updates/Fall%202026.md)
 :::
 - **NEW WRITING** : ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
 - Large push to encyclopedia, see GitHub diff for details
