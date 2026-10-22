@@ -47,13 +47,11 @@ himself at the threshold. He almost forgot.
 
 "Until the evening, love."
 
-\pagebreak
+> *Gyllicadajë Monefeorforma, Autumn 1009*
 
->> *Gyllicadajë Monefeorforma, Autumn 1009*
+> *To my dear Roädea,*
 
->> *To my dear Roädea,*
-
->> *It's been some weeks since I last wrote to you,*
+> *It's been some weeks since I last wrote to you,*
 *and for that I sincerely apologize.*
 *Preparing Hütha for university has taken up*
 *no small amount of my time. Your colleagues in*
@@ -76,7 +74,7 @@ as the Sun slowly left his sight.
 It would be gone in a few short hours.
 Hardly any time at all.
 
->> *The ink you gave me before departing runs*
+> *The ink you gave me before departing runs*
 *dry as I write this. Though I'm sure the pen*
 *will occupy my desk a while longer; your judgment*
 *served you well in commissioning it from Alferhthiuer.*
@@ -99,7 +97,7 @@ everviolet trees and the banners modeled after
 their color, flown in recognition of the autumnal equinox,
 Remembrance Day.
 
->> *I swear, as time goes by, I see more of you*
+> *I swear, as time goes by, I see more of you*
 *in her. It shouldn't scare me as much as it does.*
 *I know you. I know you're doing good, no matter where*
 *you might be right now. It never mattered who it was,*
@@ -131,7 +129,7 @@ But for today, at least,
 his attention was drawn to a well-maintained
 garden just outside the walls.
 
->> *When Hütha first learned of these letters,*
+> *When Hütha first learned of these letters,*
 *I made a promise to myself and to her*
 *that the ink well would determine their end.*
 *I thought better of refilling it after the first month.*
@@ -141,18 +139,19 @@ Even in fall, some flowers still bloomed.
 Hawen admired their strength in the face of the
 inevitable as he stood before the stone.
 
->> *Were you here, I know you would insist I hope*
+> *Were you here, I know you would insist I hope*
 *it be a long while before we meet again.*
 *Though a part of me wishes otherwise.*
 *Selfish, I know. It's become quieter lately.*
 
 
->> *I'm here because it's what you would want.*
+> *I'm here because it's what you would want.*
 *I'm here for Hütha.*
 *In time, I hope, I'll be here for myself too.*
 
->> | *Your love eternal,*
->> | *Hawen*
+> *Your love eternal,*
+
+> *Hawen*
 
 Setting it gently beneath the headstone,
 Hawen gazed at the mixture of finality
@@ -166,34 +165,14 @@ Hütha for supper. The inscription,
 kept clean through the seasons,
 read succinctly:
 
-\center{
-    \itshape{
-    Roädea Liffhälend-Sijëlwürta
+::: center
+    *Roädea Liffhälend-Sijëlwürta*
 
-    Autumn 983 - Spring 1009
+    *Autumn 983 - Spring 1009*
 
-    Beloved Mother
+    *Beloved Mother*
 
-    Respected Scholar
+    *Respected Scholar*
 
-    Valiant Medic
-    }
-}
-
-\pagebreak
-
-\center{Oration Guide / Glossary}
-
-- Roädea = Row-uh-day-uh
-- Hawen = Hah-when
-- Hütha = Who-tah (or Who-tdah, but that's difficult to convey in text. It's like a hard t.)
-- Liffhälend = Lif-haul-end
-- Sijëlwürta = See-L-were-tuh
-- Alferhthiuer = Al-fairith-hue-er
-- Witafjürgen = Wit-uh-fyur-gen
-- Gyllicadajë Monefeorforma = Gill-icka-dah-yay Moh-nay-fayor-form-uh
-    - Fun fact: this is a statement of, in order:
-    - Day of the week
-    - Semester of the cycle (year)
-    - Month of the semester
-    - Week of the month
+    *Valiant Medic*
+:::

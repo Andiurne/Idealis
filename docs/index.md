@@ -32,7 +32,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## [Latest Update - Fall 2026](/updates/fall_2026.md)
 :::
-- **NEW WRITING** : ["One Last Letter"](/writings/Miscellanea/one_last_letter.md)
+- **NEW WRITING** : ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
 - Large push to encyclopedia, see GitHub diff for details
 
 ::: center
@@ -54,7 +54,3 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Arenfürich politics
 	- Non-Halanian history
 	- Phantasms
-
-::: center
-## Changelog
-:::
