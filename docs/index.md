@@ -32,25 +32,19 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## [Latest Update - Fall 2026](/updates/Fall%202026.md)
 :::
-- **NEW WRITING** : ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
-- Large push to encyclopedia, see GitHub diff for details
+### Miscellanea
+- **NEW** : ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
+- **PLANNED**
+  - "Old Soil," short story in the next week or two.
+  - An unnammed short story, by end of year.
 
-::: center
-## Roadmap
-:::
-### Writings
-- Complete "Old Soil" and another unnammed short story by 2027
 ### Encyclopedia
-- Cleanup:
-	- Intuitive Phenomena...
-- Modernize:
-	- The Intuitive Phenomena section
-	- [Organizations](The_Aliffrume_Encyclopedia/Chronology/Organizations/Organizations.md)
-	- [Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md)
-- Expansion:
-	- Specify how [engrams](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) are utilized
-	- Expand [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
-	- Clarification on momentum conservation
-	- Arenfürich politics
-	- Non-Halanian history
-	- Phantasms
+- Large push to encyclopedia, see GitHub diff for details
+- Beginning to modernize the Intuitive Phenomena section,
+to bring in line with my modern conception of it.
+- Beginning to cleanup the prose, making it more readable
+and less like an archive.
+
+### Other
+- "PHLG 221," a diegetic lecture series on phlogistics, to be publicized
+by end of year and possibly narrated.
