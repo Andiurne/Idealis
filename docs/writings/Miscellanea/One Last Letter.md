@@ -166,13 +166,13 @@ kept clean through the seasons,
 read succinctly:
 
 ::: center
-    *Roädea Liffhälend-Sijëlwürta*
+*Roädea Liffhälend-Sijëlwürta*
 
-    *Autumn 983 - Spring 1009*
+*Autumn 983 - Spring 1009*
 
-    *Beloved Mother*
+*Beloved Mother*
 
-    *Respected Scholar*
+*Respected Scholar*
 
-    *Valiant Medic*
+*Valiant Medic*
 :::
