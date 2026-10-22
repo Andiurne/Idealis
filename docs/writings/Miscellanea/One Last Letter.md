@@ -49,11 +49,10 @@ himself at the threshold. He almost forgot.
 
 
 <blockquote>
-<p><em>Gyllicadajë Monefeorforma, Autumn 1009</em><br>
+<p><em>Gyllicadajë Monefeorforma, Autumn 1009<br>
 <br>
-<em>To my dear Roädea,</em><br>
+To my dear Roädea,<br>
 <br>
-<p><em>
 It’s been some weeks since I last wrote to you,
 and for that I sincerely apologize.
 Preparing Hütha for university has taken up
@@ -65,7 +64,7 @@ She still holds that same passion that first
 drew me to you, not only for the workings of the body,
 but for helping the souls that inhabit them.
 She’ll make a fine doctor.
-</em></p>
+</p>
 </blockquote>
 
 The soft crunch of leaves on pavement
@@ -79,7 +78,7 @@ as the Sun slowly left his sight.
 It would be gone in a few short hours.
 Hardly any time at all.
 
-> *The ink you gave me before departing runs*&;
+> *The ink you gave me before departing runs*
 *dry as I write this. Though I'm sure the pen*
 *will occupy my desk a while longer; your judgment*
 *served you well in commissioning it from Alferhthiuer.*
