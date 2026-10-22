@@ -15,7 +15,7 @@ const getSidebarItems = (dir, capitalizing) => {
   files.sort(function(a, b) {
     var aIsDir = a.isDirectory(),
         bIsDir = b.isDirectory();
-    
+
     if (aIsDir && !bIsDir) {
         return -1;
     }
@@ -46,7 +46,7 @@ const getSidebarItems = (dir, capitalizing) => {
           link: `${path.join(relativeDir, fileName, "/")}`
         });
       } else {
-        // Folder with other markdown files 
+        // Folder with other markdown files
         const text = capitalizing ? folderName.replace(/-/g, " ").toUpperCase() : folderName.replace(/-/g, " ")
         items.push({
           text: text,
@@ -66,7 +66,7 @@ const getSidebarItems = (dir, capitalizing) => {
       });
     }
   });
-  
+
   return items;
 };
 
@@ -82,6 +82,10 @@ export default defineUserConfig({
   title: 'Ad Idealis',
   description: 'Wiki, Updates, and Writings',
   base: "/Idealis/",
+
+  markdown: {
+    newline: false
+  },
 
   theme: defaultTheme({
     logo: '/images/andiurne600orangeIncandescent.png',
@@ -102,7 +106,7 @@ export default defineUserConfig({
         text: 'Encyclopedia',
         link: '/The_Aliffrume_Encyclopedia/',
       },
-      
+
     ],
 
     sidebar: generatedSidebar,
