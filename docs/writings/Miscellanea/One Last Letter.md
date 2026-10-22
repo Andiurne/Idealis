@@ -48,9 +48,9 @@ himself at the threshold. He almost forgot.
 "Until the evening, love."
 
 > *Gyllicadajë Monefeorforma, Autumn 1009*
-
+>
 > *To my dear Roädea,*
-
+>
 > *It's been some weeks since I last wrote to you,*
 *and for that I sincerely apologize.*
 *Preparing Hütha for university has taken up*
@@ -148,9 +148,9 @@ inevitable as he stood before the stone.
 > *I'm here because it's what you would want.*
 *I'm here for Hütha.*
 *In time, I hope, I'll be here for myself too.*
-
+>
 > *Your love eternal,*
-
+>
 > *Hawen*
 
 Setting it gently beneath the headstone,
