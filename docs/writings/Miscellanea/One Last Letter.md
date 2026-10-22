@@ -49,21 +49,21 @@ himself at the threshold. He almost forgot.
 
 
 <blockquote>
-<p><em>Gyllicadajë Monefeorforma, Autumn 1009<br>
+<p><em>Gyllicadajë Monefeorforma, Autumn 1009</em><br>
 <br>
-To my dear Roädea,<br>
+<em>To my dear Roädea,</em><br>
 <br>
-It’s been some weeks since I last wrote to you,
-and for that I sincerely apologize.
-Preparing Hütha for university has taken up
-no small amount of my time. Your colleagues in
-the arterial college are excited to welcome her;
-I believe they have every faith she’ll follow in your
-footsteps. I myself am inclined to believe them.
-She still holds that same passion that first
-drew me to you, not only for the workings of the body,
-but for helping the souls that inhabit them.
-She’ll make a fine doctor.
+<em>It’s been some weeks since I last wrote to you,</em>
+<em>and for that I sincerely apologize.</em>
+<em>Preparing Hütha for university has taken up</em>
+<em>no small amount of my time. Your colleagues in</em>
+<em>the arterial college are excited to welcome her;</em>
+<em>I believe they have every faith she’ll follow in your</em>
+<em>footsteps. I myself am inclined to believe them.</em>
+<em>She still holds that same passion that first</em>
+<em>drew me to you, not only for the workings of the body,</em>
+<em>but for helping the souls that inhabit them.</em>
+<em>She’ll make a fine doctor.</em>
 </p>
 </blockquote>
 
