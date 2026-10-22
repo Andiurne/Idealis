@@ -83,10 +83,6 @@ export default defineUserConfig({
   description: 'Wiki, Updates, and Writings',
   base: "/Idealis/",
 
-  markdown: {
-    newline: false
-  },
-
   theme: defaultTheme({
     logo: '/images/andiurne600orangeIncandescent.png',
     colorMode: 'dark',
