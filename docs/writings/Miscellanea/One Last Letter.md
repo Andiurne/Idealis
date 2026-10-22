@@ -51,17 +51,17 @@ himself at the threshold. He almost forgot.
 >\
 > *To my dear Roädea,*\
 >\
-> *It's been some weeks since I last wrote to you,*
-*and for that I sincerely apologize.*
-*Preparing Hütha for university has taken up*
-*no small amount of my time. Your colleagues in*
-*the arterial college are excited to welcome her;*
-*I believe they have every faith she'll follow in your*
-*footsteps. I myself am inclined to believe them.*
-*She still holds that same passion that first*
-*drew me to you, not only for the workings of the body,*
-*but for helping the souls that inhabit them.*
-*She'll make a fine doctor.*
+> *It's been some weeks since I last wrote to you, *
+*and for that I sincerely apologize. *
+*Preparing Hütha for university has taken up *
+*no small amount of my time. Your colleagues in *
+*the arterial college are excited to welcome her; *
+*I believe they have every faith she'll follow in your *
+*footsteps. I myself am inclined to believe them. *
+*She still holds that same passion that first *
+*drew me to you, not only for the workings of the body, *
+*but for helping the souls that inhabit them. *
+*She'll make a fine doctor. *
 
 The soft crunch of leaves on pavement
 accompanied the clack of Hawen's heels
