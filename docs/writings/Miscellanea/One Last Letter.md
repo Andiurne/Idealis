@@ -1,6 +1,7 @@
 ---
 title: One Last Letter
 author: Andiurne
+description: "Hawen Sijëlwürta delivers a final letter to his wife."
 
 margin-left: 2cm
 margin-right: 2cm
@@ -28,7 +29,7 @@ in shelves beneath the window,
 meticulously catalogued by subject
 in the hours he'd spent since sealing the
 parchment. They had previously found
-their home just above everywhere in the
+their home just about everywhere in the
 room besides the desk, and Hawen had
 no doubt they'd return within days.
 But she would complain, rightly,
@@ -159,7 +160,7 @@ inevitable as he stood before the stone.
 <br>
 <em>I'm here because it's what you would want. </em>
 <em>I'm here for Hütha. </em>
-<em>In time, I hope, I'll be here for myself too. </em><br>`
+<em>In time, I hope, I'll be here for myself too. </em><br>
 <br>
 <em>Your love eternal,</em><br>
 <em>Hawen</em>

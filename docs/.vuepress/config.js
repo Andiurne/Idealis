@@ -80,7 +80,7 @@ export default defineUserConfig({
   lang: 'en-US',
   head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Idealis/images/favicon-16x16.png'}]],
   title: 'Ad Idealis',
-  description: 'Wiki, Updates, and Writings',
+  description: "Andiurne's Writings and Updates",
   base: "/Idealis/",
 
   theme: defaultTheme({
