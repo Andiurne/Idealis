@@ -15,9 +15,9 @@ mainfont: QTOptimum
 italicfont: QTOptimum-Italic
 fontsize: 12pt
 ---
-Hawen couldn't remember the last time
-his desk had been this clean. The letter
-cut a staunch white picture on the mahogany,
+Hawen couldn't remember the last time\
+his desk had been this clean. The letter\
+cut a staunch white picture on the mahogany,\
 and the inky black of his lettering
 caught the last rays of sunset through
 the window. His garnet pen rested neatly
@@ -49,7 +49,9 @@ himself at the threshold. He almost forgot.
 
 > *Gyllicadajë Monefeorforma, Autumn 1009*
 >
+>
 > *To my dear Roädea,*
+>
 >
 > *It's been some weeks since I last wrote to you,*
 *and for that I sincerely apologize.*
@@ -149,7 +151,9 @@ inevitable as he stood before the stone.
 *I'm here for Hütha.*
 *In time, I hope, I'll be here for myself too.*
 >
+>
 > *Your love eternal,*
+>
 >
 > *Hawen*
 
