@@ -74,17 +74,17 @@ as the Sun slowly left his sight.
 It would be gone in a few short hours.
 Hardly any time at all.
 
-> *The ink you gave me before departing runs*&nbsp;
-*dry as I write this. Though I'm sure the pen*&nbsp;
-*will occupy my desk a while longer; your judgment*&nbsp;
-*served you well in commissioning it from Alferhthiuer.*&nbsp;
-*The flashing streaks of red remind me of your eyes,*&nbsp;
-*and help me to keep their image in my mind as*&nbsp;
-*your journey lengthens. Hütha holds the scarf you*&nbsp;
-*left for her in similar regard; I expect she'll*&nbsp;
-*be wearing it during the inauguration, despite*&nbsp;
-*the dean's best attempt at "preserving the sanctity*&nbsp;
-*of uniform." I'll find a way to convince them.*&nbsp;
+> *The ink you gave me before departing runs*&;
+*dry as I write this. Though I'm sure the pen*
+*will occupy my desk a while longer; your judgment*
+*served you well in commissioning it from Alferhthiuer.*
+*The flashing streaks of red remind me of your eyes,*
+*and help me to keep their image in my mind as*
+*your journey lengthens. Hütha holds the scarf you*
+*left for her in similar regard; I expect she'll*
+*be wearing it during the inauguration, despite*
+*the dean's best attempt at "preserving the sanctity*
+*of uniform." I'll find a way to convince them.*
 
 As the buildings reached lower and grew sparse
 along the sidewalk, Hawen found himself leaving
