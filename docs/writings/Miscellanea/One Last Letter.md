@@ -110,10 +110,11 @@ Remembrance Day.
 <em>you might be right now. It never mattered who it was, </em>
 <em>nor when, nor where. You could never stand to see someone </em>
 <em>suffer, for even a single second. Hütha carries that </em>
-<em>spark in her too. She claims it what draws her to the </em>
+<em>spark in her too. She claims it's what draws her to the </em>
 <em>field, and I don't think it's a lie. </em>
 <em>But I do know part of her chases it because </em>
-<em>it brings her closer to you, in a way. </em>
+<em>it brings her closer to you, in a way. </em><br>
+<br>
 <em>But that's just a father's intuition. </em>
 </p>
 </blockquote>
@@ -161,7 +162,6 @@ inevitable as he stood before the stone.
 <em>In time, I hope, I'll be here for myself too. </em><br>`
 <br>
 <em>Your love eternal,</em><br>
-<br>
 <em>Hawen</em>
 </p></blockquote>
 
