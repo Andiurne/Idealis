@@ -33,9 +33,10 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ## [Latest Update - Fall 2026](/updates/Fall%202026.md)
 :::
 ### Miscellanea
-- **NEW** : ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
+- **NEW**
+  - ["One Last Letter"](/writings/Miscellanea/One%20Last%20Letter.md)
+  - ["Old Soil"](/writings/Miscellanea/Old%20Soil.md)
 - **PLANNED**
-  - "Old Soil," short story in the next week or two.
   - An unnammed short story, by end of year.
 
 ### Encyclopedia
